@@ -20,10 +20,6 @@ https://idvd.multitvsolution.com/idvo/mahamovie.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:-1, Mh1 Music 
 https://idvd.multitvsolution.com/idvo/mhonemusic.m3u8 
-#EXTINF:-1, Mastii 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/1b2defd8-86b5-4df9-8e93-629d7d10a9b1/0.m3u8
-#EXTINF:-1, Big Magic
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagic/master.m3u8?hdnts=st=1706556535~exp=1706559535~acl=/cmaf/live/2105176/BigMagic/master.m3u8*~hmac=f9f6406c023ad0336a995d1fb70ec36501969a6d4b35354bf30671ccbb771da8
 #EXTINF:-1, Chumbak Tv 
 https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8?hdnts=st%3D1706558153%7Eexp%3D1706568953%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D21e88fb91400bc4a1a60108347921f59d93df1963d4d9d010f05cfa726777510
 #EXTINF:-1, Dangal 

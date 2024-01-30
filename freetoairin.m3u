@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Powered By TVBOOK LIVE 
 https://nekofile.eu.org/b498aa37035f4d70d40d61a02
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zm6r9QOf.png" group-title="DD FREE DISH-", DD News 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028" group-title="DD FREE DISH-", DD News 
 https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028" group-title="DD FREE DISH-", DD National
+http://mitvpro.online:88/02025685921199/8999991992/96206

@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1, Powered By TVBOOK LIVE 
 https://nekofile.eu.org/b498aa37035f4d70d40d61a02
+#EXTINF:-1, Sony Ten 1 Ten Sports 
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/chunklist_w529585513_b264000.m3u8?nimblesessionid=2840321
+
 #EXTINF:-1, Sangeet Bangla 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8?sessionid=yupptvott_61_-1_1d670fdb-7f79-07ca-c365-8d1aca7acf67_IN_47.11.252.80_dishtv_1_channel_40_-1&token=st=1705106680~exp=1705193080~hmac=f5b55a51756362ba6e2f5d41fe12ed5755a6dbb167d987fe58550f8631d93175
 #EXTINF:-1, Music India 

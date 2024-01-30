@@ -4,8 +4,7 @@ https://nekofile.eu.org/b498aa37035f4d70d40d61a02
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8?sessionid=yupptvott_61_-1_1d670fdb-7f79-07ca-c365-8d1aca7acf67_IN_47.11.252.80_dishtv_1_channel_40_-1&token=st=1705106680~exp=1705193080~hmac=f5b55a51756362ba6e2f5d41fe12ed5755a6dbb167d987fe58550f8631d93175
 #EXTINF:-1, Music India 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8?sessionid=yupptvott_61_-1_1d670fdb-7f79-07ca-c365-8d1aca7acf67_IN_47.11.252.80_dishtv_1_channel_41_-1&token=st=1705106787~exp=1705193187~hmac=40d2d68b5cc7b44071637dda342c7a8573908b1d2fd5a8430d2dc93bff4cc363
-#EXTINF:-1, Sun Bangla Cinema 
-https://live.sunbanglacinema.in/sunbanglacinema/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Zing 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
 #EXTINF:-1, Zee Anmol Cinema
@@ -20,8 +19,7 @@ https://idvd.multitvsolution.com/idvo/mahamovie.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:-1, Mh1 Music 
 https://idvd.multitvsolution.com/idvo/mhonemusic.m3u8 
-#EXTINF:-1, Chumbak Tv 
-https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8?hdnts=st%3D1706558153%7Eexp%3D1706568953%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D21e88fb91400bc4a1a60108347921f59d93df1963d4d9d010f05cfa726777510
+
 #EXTINF:-1, Dangal 
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 #EXTINF:-1, Dangal 2 

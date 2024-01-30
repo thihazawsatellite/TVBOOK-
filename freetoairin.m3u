@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Powered By TVBOOK LIVE 
 https://nekofile.eu.org/b498aa37035f4d70d40d61a02
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zm6r9QOf.png" group-title="DD FREE DISH-", DD News 
+https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8

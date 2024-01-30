@@ -38,3 +38,13 @@ https://epiconvh.s.llnwi.net/live/showbox/master_1080.m3u8
 https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/3f6bcce0-4dfb-4dab-b836-0d635eeece5e/1.m3u8
 #EXTINF:-1,FILAMCHI 
 https://epiconvh.s.llnwi.net/live/filamchi/master_1080.m3u8
+#EXTINF:-1, Geo Tv 
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1, 9xm 
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 
+#EXTINF:-1, Aaj Tak 
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1, Abp News 
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1, DD News 
+https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8

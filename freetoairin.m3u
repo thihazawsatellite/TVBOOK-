@@ -1,10 +1,10 @@
 #EXTINF:-1, Powered By TVBOOK LIVE 
 https://nekofile.eu.org/b498aa37035f4d70d40d61a02
-#EXTINF:-1, Sangeet Bangla
+#EXTINF:-1, Sangeet Bangla 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8?sessionid=yupptvott_61_-1_1d670fdb-7f79-07ca-c365-8d1aca7acf67_IN_47.11.252.80_dishtv_1_channel_40_-1&token=st=1705106680~exp=1705193080~hmac=f5b55a51756362ba6e2f5d41fe12ed5755a6dbb167d987fe58550f8631d93175
 #EXTINF:-1, Music India 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8?sessionid=yupptvott_61_-1_1d670fdb-7f79-07ca-c365-8d1aca7acf67_IN_47.11.252.80_dishtv_1_channel_41_-1&token=st=1705106787~exp=1705193187~hmac=40d2d68b5cc7b44071637dda342c7a8573908b1d2fd5a8430d2dc93bff4cc363
-#EXTINF:-1, Sun Bangla Cinema
+#EXTINF:-1, Sun Bangla Cinema 
 https://live.sunbanglacinema.in/sunbanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Zing 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
@@ -38,8 +38,6 @@ https://epiconvh.s.llnwi.net/live/showbox/master_1080.m3u8
 https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/3f6bcce0-4dfb-4dab-b836-0d635eeece5e/1.m3u8
 #EXTINF:-1,FILAMCHI 
 https://epiconvh.s.llnwi.net/live/filamchi/master_1080.m3u8
-#EXTINF:-1, Geo Tv 
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1, 9xm 
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 
 #EXTINF:-1, Aaj Tak 

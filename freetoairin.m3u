@@ -24,6 +24,15 @@ https://nayeem-parvez.pw/api/ayna.m3u8?id=27
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=8&key
 #EXTINF:-1 tvg-id=ts8 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Tata Sky",STAR Plus HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=521&key
+#EXTINF:-1 tvg-id=ts521 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Tata Sky",Sun TV HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=521
+
+
+
+
 http://rftv.wtf/tp/rjiptv.mpd?contentID=8
 #EXTINF: -1 tvg-id="StarPlus.uk" tvg-logo="http://logo.protv.cc/picons/logos/USTAV-PLUS.png" group-title="INDIA EU", UTSAV PLUS
 http://mag.trexlive.me:80/Michael88/Michael88/42438

@@ -5,11 +5,7 @@ https://video.frdp3-1.fna.fbcdn.net/v/t39.25447-2/423313563_897407131848910_6413
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028" group-title="DD FREE DISH-", DD News 
 https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028" group-title="DD FREE DISH-", DD National
-http://mitvpro.online:88/02025685921199/8999991992/96206
-#EXTINF:-1, Star Sports 1 (Ayna OTT) 
-https://nayeem-parvez.pw/api/ayna.m3u8?id=42 
-#EXTINF:-1, Star Sports 2 (Ayna OTT) 
-https://nayeem-parvez.pw/api/ayna.m3u8?id=43
+http://mitvpro.online:88/02025685921199/8999991992/9620 
 #EXTINF:-1, Star Sports Select 1 (Ayna OTT) 
 https://nayeem-parvez.pw/api/ayna.m3u8?id=48
 

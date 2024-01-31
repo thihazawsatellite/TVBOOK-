@@ -27,6 +27,25 @@ https://nayeem-parvez.pw/api/ayna.m3u8?id=27
 #EXTINF:-1, Star Sports 1 
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
+{
+    "name": "Jalsha Movies VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/jalsha_movies/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1706748244:KeyName=prod_linear:Signature=-VH6EzoYi6CeWHVyo1PIMDt0fT9Cvq5kIrg--yCq1WY-p9zpazGjzSwEClcEXlqJHdQ8oRVIKCy2IvAuh2mfCA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=8&key
 #EXTINF:-1 tvg-id=ts8 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Tata Sky",STAR Plus HD
